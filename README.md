@@ -13,3 +13,5 @@ In the project directory, you can run:
 `npm i`
 
 `npm start`
+
+`visit: http://localhost:3000`
